@@ -1,0 +1,19 @@
+= Groovy Spock Workshop
+
+There is 3 parts of the exercises
+
+* Part 1: Solving Groovy and Spock exercises
+* Part 2: Solving exercises with collections and closures
+* Part 3: Exercises with metaprogramming
+
+In each of the folders the README file should get you started
+
+You can go to the folder for each exercise, and run
+
+ ./gradlew check
+
+To generate a test report. This will give you a hint where to start - some test is failing. Once that is done another one will be next :)
+
+== Hints / Cheating / Solution
+
+You can checkout the solution branch to see one way to solve the exercises.
