@@ -1,0 +1,12 @@
+= Part 3 - Metaprogramming
+
+This part contains 3 exercises, see the `MetaclassFunSpec` for the test you should make pass, and the `MetaclassFun`
+class where you have to implement the code.
+
+. Add a method to convert a string to snake case to the String class
+. Add a method to convert a string to camel case to the String class
+. Add a method to Integer, to convert and return a roman numeral representation
+
+== Hints / Cheating / Solution
+
+You can checkout the solution branch to see one way to solve the exercises.
