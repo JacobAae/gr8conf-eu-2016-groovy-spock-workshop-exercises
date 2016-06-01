@@ -1,0 +1,10 @@
+= Part 2 - Closures and collections
+
+This part contains a few exercises, see the `FuturamaSpec` for the tests you should make pass, and the `Futurama` class
+for the list of characters from the series
+
+Most of the exercises can be solved with a one liner, and you should not use any for loops :)
+
+== Hints / Cheating / Solution
+
+You can checkout the solution branch to see one way to solve the exercises.
