@@ -1,0 +1,11 @@
+= Part 1 - Spock and Groovy
+
+This part contains a two test classes, one for calculating BMI for persons and one for calculation energy in food.
+
+Start out in the `PersonSpec` class, and implement the code to make the test pass in the `Person` class
+
+Once you are done with that, continue to the duo of `ProductSpec` and `Product`.
+
+== Hints / Cheating / Solution
+
+You can checkout the solution branch to see one way to solve the exercises.
